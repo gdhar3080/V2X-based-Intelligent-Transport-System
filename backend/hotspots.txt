@@ -1,0 +1,26 @@
+{
+  "MBA_Jun": {
+    "lower_limit_lat": "10.904001",
+    "upper_limit_lat": "10.904090",
+    "lower_limit_lon": "76.901741",
+    "upper_limit_lon": "76.901874"
+  },
+  "AB1_Jun": {
+    "lower_limit_lat": "10.899330",
+    "upper_limit_lat": "10.899417",
+    "lower_limit_lon": "76.902184",
+    "upper_limit_lon": "76.902273"
+  },
+  "YB_Jun": {
+    "lower_limit_lat": "10.900939",
+    "upper_limit_lat": "10.901020",
+    "lower_limit_lon": "76.903863",
+    "upper_limit_lon": "76.903927"
+  }, 
+  "AB2&Lib": {
+    "lower_limit_lat": "10.903746",
+    "upper_limit_lat": "10.905197",
+    "lower_limit_lon": "76.897820",
+    "upper_limit_lon": "76.899606"
+  }
+}
